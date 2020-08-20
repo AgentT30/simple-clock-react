@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/simple-clock-react/static/css/main.49475b34.chunk.css",
+    "main.js": "/simple-clock-react/static/js/main.ca89011f.chunk.js",
+    "main.js.map": "/simple-clock-react/static/js/main.ca89011f.chunk.js.map",
+    "runtime-main.js": "/simple-clock-react/static/js/runtime-main.aa07df94.js",
+    "runtime-main.js.map": "/simple-clock-react/static/js/runtime-main.aa07df94.js.map",
+    "static/js/2.6fd0898a.chunk.js": "/simple-clock-react/static/js/2.6fd0898a.chunk.js",
+    "static/js/2.6fd0898a.chunk.js.map": "/simple-clock-react/static/js/2.6fd0898a.chunk.js.map",
+    "index.html": "/simple-clock-react/index.html",
+    "precache-manifest.c21ad38e7789490c3a7a8b407895df3b.js": "/simple-clock-react/precache-manifest.c21ad38e7789490c3a7a8b407895df3b.js",
+    "service-worker.js": "/simple-clock-react/service-worker.js",
+    "static/css/main.49475b34.chunk.css.map": "/simple-clock-react/static/css/main.49475b34.chunk.css.map",
+    "static/js/2.6fd0898a.chunk.js.LICENSE.txt": "/simple-clock-react/static/js/2.6fd0898a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/simple-clock-react/static/media/Light_Deer.67cc652c.png",
+    "static/media/logo.svg": "/simple-clock-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa07df94.js",
+    "static/js/2.6fd0898a.chunk.js",
+    "static/css/main.49475b34.chunk.css",
+    "static/js/main.ca89011f.chunk.js"
+  ]
+}
