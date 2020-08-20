@@ -1,13 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+        "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+body {
+    background-image: url(assets/Light_Deer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.App {
+    font-family: "Do Hyeon", sans -serif;
+    font-size: 50px;
+}
+.clock {
+    display: inline-block;
+    font-family: "Do Hyeon", sans-serif;
+    font-size: 100px;
+    transition: 0.5s ease-in-out;
+}
+
+.clock:hover {
+    font-size: 120px;
 }
